@@ -15,8 +15,8 @@ A compact, production-grade template that serves Google’s **Gemma-2B-IT** mode
   <td align="center"><img src="resources/snapshot2.png" width="340"/></td>
 </tr>
 <tr>
-  <td align="center"><em>Initial load</em></td>
-  <td align="center"><em>After an exchange</em></td>
+  <td align="center"><em>Chat Snapshots</em></td>
+  <td align="center"><em>Chat Snapshots</em></td>
 </tr>
 </table>
 
