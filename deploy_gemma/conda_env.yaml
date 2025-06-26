@@ -1,0 +1,13 @@
+name: BaseCondaEnv
+channels:
+  - defaults
+dependencies:
+  - python
+  -  pip:
+      - transformers
+      - peft
+      - datasets
+      - torch
+      - fastapi
+      - uvicorn
+      - pydantic
