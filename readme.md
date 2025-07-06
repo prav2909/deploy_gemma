@@ -36,7 +36,7 @@ A compact, production-grade template that serves Google’s **Gemma-2B-IT** mode
 
 ## Quick Start (Local Docker — GPU or CPU)
 ```bash
-git clone https://github.com/<your-fork>/gemma-chatbot.git
+git clone https://github.com/prav2909/gemma-chatbot.git
 cd gemma-chatbot
 
 docker build -t gemma_chatbot .
