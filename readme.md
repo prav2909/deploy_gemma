@@ -53,7 +53,7 @@ docker run --gpus all \
 ## One-Command EC2 Deployment
 ```bash
 # On a GPU-enabled EC2 instance
-git clone https://github.com/<your-fork>/gemma-chatbot.git
+git clone https://github.com/prav2909/gemma-chatbot.git
 cd gemma-chatbot
 
 docker build -t gemma_chatbot .
